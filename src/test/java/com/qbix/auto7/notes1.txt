@@ -1,0 +1,17 @@
+1) inheritence : using extend ??
+using implement??
+
+
+
+2) polymorphism:  by method overloading
+		launchApp with different parameter signature is an example.
+		
+		method overriding: ?? check examples
+		
+3) Abstraction
+	Abstract class; objects cannot be created. But methods can be declared.
+	abstraction in itself is method overriding+inheritance????
+	
+Interface
+
+4) Encapsulation
